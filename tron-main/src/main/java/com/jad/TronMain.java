@@ -2,6 +2,12 @@ package com.jad;
 
 import com.jad.tron.*;
 
+import javax.swing.*;
+import com.jad.tron.IRenderer;
+import com.jad.tron.Renderer;
+
+
+
 public enum TronMain {
     ;
 
